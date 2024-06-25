@@ -1,6 +1,6 @@
 Exercício de PHP: Anatomia de uma Divisão
 
-![logo minha aplicação](anatomia_divisao/Captura de tela 2024-06-25 140058.png);
+![logo minha aplicação](anatomia_divisao/print_tela);
 Este projeto em PHP demonstra a estrutura básica para realizar uma divisão entre dois números inseridos através de um formulário HTML. Vamos explorar como o código está estruturado e como ele funciona.
 
 Funcionalidade
