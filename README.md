@@ -1,12 +1,14 @@
 Exercício de PHP: Anatomia de uma Divisão
 
 ![logo minha aplicação](anatomia_divisao/print_tela);
-Este projeto em PHP demonstra a estrutura básica para realizar uma divisão entre dois números inseridos através de um formulário HTML. Vamos explorar como o código está estruturado e como ele funciona.
 
-Funcionalidade
+
+ - Este projeto em PHP demonstra a estrutura básica para realizar uma divisão entre dois números inseridos através de um formulário HTML. Vamos explorar como o código está estruturado e como ele funciona.
+
+- Funcionalidade
 O objetivo deste exercício é permitir que o usuário insira dois números (dividendo e divisor) em um formulário HTML e, ao clicar no botão "Analisar", a página exibe o resultado da divisão, mostrando o quociente e o resto da divisão.
 
-Arquivos Incluídos
+- Arquivos Incluídos
 index.php: Este é o arquivo principal que contém tanto o formulário HTML quanto o código PHP para processar a entrada do usuário e calcular a divisão.
 estilo.css: Arquivo CSS utilizado para estilizar a página.
 Componentes Principais
